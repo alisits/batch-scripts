@@ -1,0 +1,5 @@
+net use O: "\\rtcfs02\design"
+net use P: "\\rasfp01\Daten"
+net use Q: "\\rtcfs01\projekte"
+net use R: "\\rtcfs01\temp"
+net use T: "\\rtcfs02\design2"
